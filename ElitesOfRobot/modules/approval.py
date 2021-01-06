@@ -1,3 +1,5 @@
+#This Module Is Created By @imDivu - (@ElitesOfRobot)
+
 import html
 from telegram import Chat, User, ParseMode
 from telegram.error import BadRequest
@@ -189,6 +191,9 @@ def unapproveall(update, context):
         "Successully unapproved all users from {}.".format(chat.title)
     )
         
+#CREDIT
+#By @imDivu - (@ElitesOfRobot)
+
 __mod_name__ = "Approval"    
 
 __help__ = """ 
