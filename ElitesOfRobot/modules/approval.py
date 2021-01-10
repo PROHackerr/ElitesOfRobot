@@ -1,4 +1,5 @@
 #This Module Is Created By @imDivu - (@ElitesOfRobot)
+# Copyright (C) 2020-2021
 
 import html
 from telegram import Chat, User, ParseMode
@@ -193,6 +194,7 @@ def unapproveall(update, context):
         
 #CREDIT
 #By @imDivu - (@ElitesOfRobot)
+# Copyright (C) 2020-2021
 
 __mod_name__ = "Approval"    
 
