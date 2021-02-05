@@ -88,9 +88,6 @@ if ENV:
     SPAMWATCH_SUPPORT_CHAT = os.environ.get('SPAMWATCH_SUPPORT_CHAT', None)
     SPAMWATCH = os.environ.get('SPAMWATCH_API', None)
     REDIS_URL = os.environ.get('REDIS_URL', None)
-    REDIS_AP_URL = os.environ.get('REDIS_AP', None)
-    REDIS_TA_URL = os.environ.get('REDIS_TA', None)
-    REDIS_AFK_URL = os.environ.get('REDIS_AFK', None)
     CUSTOM_CMD = os.environ.get('CUSTOM_CMD', ('/', '!'))
     REPOSITORY = os.environ.get('REPOSITORY', "")
 
